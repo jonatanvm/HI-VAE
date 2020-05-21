@@ -1,0 +1,15 @@
+type,dim,nclass
+cat,2,2
+real,1,
+real,1,
+cat,2,2
+cat,7,7
+cat,3,3
+real,1,
+cat,15,15
+cat,89,89
+cat,4,4
+cat,9,9
+real,1,
+cat,2,2
+real,1,

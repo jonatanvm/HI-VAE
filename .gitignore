@@ -2,7 +2,9 @@ DS_Store
 venv/
 _venv/
 __pycache__/
+__pycache__
 _tmp/
+.idea/
 
 ### LaTeX ###
 ## Core latex/pdflatex auxiliary files:
